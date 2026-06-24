@@ -1,0 +1,548 @@
+fileFormatVersion: 2
+guid: 68bc40f0bdfcacb4bab4b7c9f4ea8cea
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7561745151680243969
+    second: dark fantasy big boss idle_0
+  - first:
+      213: -5282260821331746349
+    second: dark fantasy big boss idle_1
+  - first:
+      213: 138237327120681757
+    second: dark fantasy big boss idle_2
+  - first:
+      213: 1385317092577606974
+    second: dark fantasy big boss idle_3
+  - first:
+      213: 2907179689892506513
+    second: dark fantasy big boss idle_4
+  - first:
+      213: -4077742213526953967
+    second: dark fantasy big boss idle_5
+  - first:
+      213: 7886561911035061861
+    second: dark fantasy big boss idle_6
+  - first:
+      213: 6942453321910409354
+    second: dark fantasy big boss idle_7
+  - first:
+      213: -6451080061995027987
+    second: dark fantasy big boss idle_8
+  - first:
+      213: 8925357167426626694
+    second: dark fantasy big boss idle_9
+  - first:
+      213: -1747729083917642668
+    second: dark fantasy big boss idle_10
+  - first:
+      213: 7014220915409568635
+    second: dark fantasy big boss idle_11
+  - first:
+      213: -4131756879200438946
+    second: dark fantasy big boss idle_12
+  - first:
+      213: 1633307818020906279
+    second: dark fantasy big boss idle_13
+  - first:
+      213: -5340466250981135536
+    second: dark fantasy big boss idle_14
+  - first:
+      213: -9214601997269640906
+    second: dark fantasy big boss idle_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: dark fantasy big boss idle_0
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 8
+        width: 36
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff6111039d84f0790800000000000000
+      internalID: -7561745151680243969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark fantasy big boss idle_1
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 8
+        width: 36
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d1ee8505c3a1b6b0800000000000000
+      internalID: -5282260821331746349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark fantasy big boss idle_2
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 8
+        width: 36
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1b4ab9dd1e1be100800000000000000
+      internalID: 138237327120681757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark fantasy big boss idle_3
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 8
+        width: 36
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3d7d545e82a93310800000000000000
+      internalID: 1385317092577606974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark fantasy big boss idle_4
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 8
+        width: 36
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19be54a6680685820800000000000000
+      internalID: 2907179689892506513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark fantasy big boss idle_5
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 8
+        width: 36
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1106c15cf03f867c0800000000000000
+      internalID: -4077742213526953967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark fantasy big boss idle_6
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 8
+        width: 36
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 566ee56f542b27d60800000000000000
+      internalID: 7886561911035061861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark fantasy big boss idle_7
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 8
+        width: 36
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a88533a738c885060800000000000000
+      internalID: 6942453321910409354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark fantasy big boss idle_8
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 8
+        width: 36
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de17e27ecd82976a0800000000000000
+      internalID: -6451080061995027987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark fantasy big boss idle_9
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 8
+        width: 36
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68463f12e0d3ddb70800000000000000
+      internalID: 8925357167426626694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark fantasy big boss idle_10
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 8
+        width: 36
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 454587578a1deb7e0800000000000000
+      internalID: -1747729083917642668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark fantasy big boss idle_11
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 8
+        width: 36
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b734a1772c4875160800000000000000
+      internalID: 7014220915409568635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark fantasy big boss idle_12
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 8
+        width: 36
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e553bf4620d09a6c0800000000000000
+      internalID: -4131756879200438946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark fantasy big boss idle_13
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 8
+        width: 36
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 725210e8eccaaa610800000000000000
+      internalID: 1633307818020906279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark fantasy big boss idle_14
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 8
+        width: 36
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05bae4f5d3ad2e5b0800000000000000
+      internalID: -5340466250981135536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark fantasy big boss idle_15
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 8
+        width: 36
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6395326fd482f1080800000000000000
+      internalID: -9214601997269640906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: f120176ec35a0ea43a50f619b5f68697
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.0},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":7,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      dark fantasy big boss idle_0: -7561745151680243969
+      dark fantasy big boss idle_1: -5282260821331746349
+      dark fantasy big boss idle_10: -1747729083917642668
+      dark fantasy big boss idle_11: 7014220915409568635
+      dark fantasy big boss idle_12: -4131756879200438946
+      dark fantasy big boss idle_13: 1633307818020906279
+      dark fantasy big boss idle_14: -5340466250981135536
+      dark fantasy big boss idle_15: -9214601997269640906
+      dark fantasy big boss idle_2: 138237327120681757
+      dark fantasy big boss idle_3: 1385317092577606974
+      dark fantasy big boss idle_4: 2907179689892506513
+      dark fantasy big boss idle_5: -4077742213526953967
+      dark fantasy big boss idle_6: 7886561911035061861
+      dark fantasy big boss idle_7: 6942453321910409354
+      dark fantasy big boss idle_8: -6451080061995027987
+      dark fantasy big boss idle_9: 8925357167426626694
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1098 @@
+fileFormatVersion: 2
+guid: 9a4c6f3f5196fda44b4d0967080d0570
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4528527271676878400
+    second: Slug_animations_no_background_0
+  - first:
+      213: 3970198834930631700
+    second: Slug_animations_no_background_1
+  - first:
+      213: -1087691680507650984
+    second: Slug_animations_no_background_2
+  - first:
+      213: -2726770037398647951
+    second: Slug_animations_no_background_3
+  - first:
+      213: -7855568387425223924
+    second: Slug_animations_no_background_4
+  - first:
+      213: 9149029755662272955
+    second: Slug_animations_no_background_5
+  - first:
+      213: -6427962333659577488
+    second: Slug_animations_no_background_6
+  - first:
+      213: 3385990520549478022
+    second: Slug_animations_no_background_7
+  - first:
+      213: -3976194629994733655
+    second: Slug_animations_no_background_8
+  - first:
+      213: -8472359433403430111
+    second: Slug_animations_no_background_9
+  - first:
+      213: -1381721809663248290
+    second: Slug_animations_no_background_10
+  - first:
+      213: 8136358937517674573
+    second: Slug_animations_no_background_11
+  - first:
+      213: 8509073060059590256
+    second: Slug_animations_no_background_12
+  - first:
+      213: 4028771523395038882
+    second: Slug_animations_no_background_13
+  - first:
+      213: 5189750306549077860
+    second: Slug_animations_no_background_14
+  - first:
+      213: -1254778629697598006
+    second: Slug_animations_no_background_15
+  - first:
+      213: -5882794075182509517
+    second: Slug_animations_no_background_16
+  - first:
+      213: 956930480882872140
+    second: Slug_animations_no_background_17
+  - first:
+      213: 4529135316255173847
+    second: Slug_animations_no_background_18
+  - first:
+      213: 4304049298864333112
+    second: Slug_animations_no_background_19
+  - first:
+      213: -1683831531440378701
+    second: Slug_animations_no_background_20
+  - first:
+      213: 3316763810826214892
+    second: Slug_animations_no_background_21
+  - first:
+      213: 6138767660966082281
+    second: Slug_animations_no_background_22
+  - first:
+      213: -4971857840126504826
+    second: Slug_animations_no_background_23
+  - first:
+      213: 1696416534242154836
+    second: Slug_animations_no_background_24
+  - first:
+      213: -3018577844553451265
+    second: Slug_animations_no_background_25
+  - first:
+      213: 2362618663818104371
+    second: Slug_animations_no_background_26
+  - first:
+      213: 7821813740761343560
+    second: Slug_animations_no_background_27
+  - first:
+      213: 7302051709005988598
+    second: Slug_animations_no_background_28
+  - first:
+      213: -8057566347939943717
+    second: Slug_animations_no_background_29
+  - first:
+      213: 6629657313968892379
+    second: Slug_animations_no_background_30
+  - first:
+      213: 6520971349279958211
+    second: Slug_animations_no_background_31
+  - first:
+      213: 3830838850292662740
+    second: Slug_animations_no_background_32
+  - first:
+      213: -7295362776445090423
+    second: Slug_animations_no_background_33
+  - first:
+      213: 7545605000525784620
+    second: Slug_animations_no_background_34
+  - first:
+      213: -9041116626007766306
+    second: Slug_animations_no_background_35
+  - first:
+      213: 6401086318611731878
+    second: Slug_animations_no_background_36
+  - first:
+      213: -7063643434386552703
+    second: Slug_animations_no_background_37
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Slug_1
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 139
+        width: 18
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff91fc92fbf913546908e3ee9b0e5cfb
+      internalID: -1056011013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slug_2
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 139
+        width: 18
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc915b0c4226caf4895972280f93ea48
+      internalID: 1313855735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slug_3
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 139
+        width: 18
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c2157eff949ee8409f6030101a832ad
+      internalID: -1199106289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slug_4
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 139
+        width: 19
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b81e7ec6f02b9de4ebe071ec9fe20e6f
+      internalID: 869305567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slug_5
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 139
+        width: 18
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bf886ea8b0608a48b72ba5ad5cd4946
+      internalID: -1448531431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slug_6
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 139
+        width: 17
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee5f96ac0d7bbad4a8ca06a60b2c226b
+      internalID: -1490283004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slug_7
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 107
+        width: 12
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 122495ee140ff9b42a52c1ccd1d8cb5c
+      internalID: -1924156325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slug_8
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 107
+        width: 10
+        height: 9
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5cbf83530483334b8a00b5428781bd8
+      internalID: 2006654247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slug_9
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 107
+        width: 16
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a2b295402047b14eae525d41e792d0d
+      internalID: 1859487277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slug_10
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 107
+        width: 20
+        height: 14
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fc8bf49e6d20494b8b5236ace97de45
+      internalID: -1309038823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slug_11
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 107
+        width: 16
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62b46333884e44a4a85ada9b5460561d
+      internalID: -1713168879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slug_12
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 107
+        width: 10
+        height: 9
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b96c3f3f8c927934c87dc8b7e65ff83a
+      internalID: -174691947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slug_13
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 107
+        width: 12
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1981a67c8d9aea479bb53e7cb2273c0
+      internalID: 1045738514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slug_14
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 107
+        width: 10
+        height: 9
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5265c5852b1433b4a91ca2f61b7a3ded
+      internalID: -451409928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slug_15
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 75
+        width: 18
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13c61023a36f57c46a05954b9041d6c1
+      internalID: 1494278032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slug_16
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 75
+        width: 15
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1af635014933a7a4e8f9a450d7793dda
+      internalID: -1701619950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slug_17
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 76
+        width: 11
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61501f9c79dacfb46905f831c379727f
+      internalID: 856794427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slug_18
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 77
+        width: 9
+        height: 11
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ad1a069411136244b3a34b18e2e3cba
+      internalID: -1278358461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slug_19
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 75
+        width: 10
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62008e66c9d3b814e850f49a695d6425
+      internalID: -307016990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slug_20
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 75
+        width: 9
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac3165f8194ba604eac66fff30aea0ce
+      internalID: 1414623814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slug_21
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 75
+        width: 10
+        height: 11
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd1eff8becc9b9846a5d6fc6342d79f3
+      internalID: 686021002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slug_22
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 75
+        width: 9
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af84a611e603eec4ea38058a76511449
+      internalID: -1646165507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slug_23
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 75
+        width: 10
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e46c82f602b5719428b4932561cc3da4
+      internalID: 806870458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slug_24
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 75
+        width: 9
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3ab69e3fec757042ad28fb212f0b9c8
+      internalID: -891883891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slug_25
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 75
+        width: 9
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34ce3d50dcf515c47acf4a8fffb49c1c
+      internalID: 92078270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slug_26
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 42
+        width: 10
+        height: 11
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f724d48089682045acadf8ed5cfb6c2
+      internalID: 2018530746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slug_27
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 43
+        width: 9
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42bf78e1ad53df4488adf6becb8efed8
+      internalID: 1821484698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slug_28
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 44
+        width: 11
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf786635f99c3c04897182bf12229e31
+      internalID: -1250494014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slug_29
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 43
+        width: 15
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f14b70e4b109604e918b2533786597a
+      internalID: -763942218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slug_30
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 43
+        width: 18
+        height: 9
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 497b6a7b104c73a4a9c085a0f9a7a5ef
+      internalID: 342000384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slug_31
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 43
+        width: 18
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 191605e5933f14644a837f62a475a83b
+      internalID: -721114566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slug_32
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 11
+        width: 18
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80660a52826062640a605928190439c8
+      internalID: 750219505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slug_33
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 11
+        width: 18
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f83de496e9091b9458d8910c9747e6ac
+      internalID: 465808629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slug_34
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 11
+        width: 16
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34e53f35847a8d543ad868f3e1f2e08e
+      internalID: -1382860066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slug_35
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 11
+        width: 17
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dce245420028e81449041816a5c91e80
+      internalID: 303392023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slug_36
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 11
+        width: 17
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d32f955aa1becb4495d14116c14f3e9
+      internalID: -849577751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slug_37
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 11
+        width: 9
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35b5de3a9b5446247b62237b7402a1b2
+      internalID: -531779894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 3f88319c1d065ad4ca3ba575ad76bc15
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.0,"y":0.0},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":6,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Slug_0: -101536994
+      Slug_1: -1056011013
+      Slug_10: -1309038823
+      Slug_11: -1713168879
+      Slug_12: -174691947
+      Slug_13: 1045738514
+      Slug_14: -451409928
+      Slug_15: 1494278032
+      Slug_16: -1701619950
+      Slug_17: 856794427
+      Slug_18: -1278358461
+      Slug_19: -307016990
+      Slug_2: 1313855735
+      Slug_20: 1414623814
+      Slug_21: 686021002
+      Slug_22: -1646165507
+      Slug_23: 806870458
+      Slug_24: -891883891
+      Slug_25: 92078270
+      Slug_26: 2018530746
+      Slug_27: 1821484698
+      Slug_28: -1250494014
+      Slug_29: -763942218
+      Slug_3: -1199106289
+      Slug_30: 342000384
+      Slug_31: -721114566
+      Slug_32: 750219505
+      Slug_33: 465808629
+      Slug_34: -1382860066
+      Slug_35: 303392023
+      Slug_36: -849577751
+      Slug_37: -531779894
+      Slug_4: 869305567
+      Slug_5: -1448531431
+      Slug_6: -1490283004
+      Slug_7: -1924156325
+      Slug_8: 2006654247
+      Slug_9: 1859487277
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

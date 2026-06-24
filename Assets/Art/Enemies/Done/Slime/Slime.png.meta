@@ -1,0 +1,1084 @@
+fileFormatVersion: 2
+guid: 764f108099a6bd0418df8df6a32637d3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7980684782856882942
+    second: Slime_animations_no_background_0
+  - first:
+      213: -1474805879618933275
+    second: Slime_animations_no_background_1
+  - first:
+      213: -1240108923162652091
+    second: Slime_animations_no_background_2
+  - first:
+      213: -5448948053431230260
+    second: Slime_animations_no_background_3
+  - first:
+      213: -4068425675815382155
+    second: Slime_animations_no_background_4
+  - first:
+      213: 1368132169996359354
+    second: Slime_animations_no_background_5
+  - first:
+      213: 3165839625235955156
+    second: Slime_animations_no_background_6
+  - first:
+      213: 8497972992323085358
+    second: Slime_animations_no_background_7
+  - first:
+      213: -1230728517091311792
+    second: Slime_animations_no_background_8
+  - first:
+      213: -1857210625574135436
+    second: Slime_animations_no_background_9
+  - first:
+      213: -3384275036446187856
+    second: Slime_animations_no_background_10
+  - first:
+      213: 6888217395968753563
+    second: Slime_animations_no_background_11
+  - first:
+      213: -6167880764806767128
+    second: Slime_animations_no_background_12
+  - first:
+      213: -6448887442611371348
+    second: Slime_animations_no_background_13
+  - first:
+      213: 232955780771930917
+    second: Slime_animations_no_background_14
+  - first:
+      213: 1100539102788887225
+    second: Slime_animations_no_background_15
+  - first:
+      213: -7621245846781978759
+    second: Slime_animations_no_background_16
+  - first:
+      213: -2749148296076492437
+    second: Slime_animations_no_background_17
+  - first:
+      213: 5357497978080914098
+    second: Slime_animations_no_background_18
+  - first:
+      213: -6167143317865978612
+    second: Slime_animations_no_background_19
+  - first:
+      213: 344983086560065525
+    second: Slime_animations_no_background_20
+  - first:
+      213: 22633683558851449
+    second: Slime_animations_no_background_21
+  - first:
+      213: 1014265433269955256
+    second: Slime_animations_no_background_22
+  - first:
+      213: 1113043841689607277
+    second: Slime_animations_no_background_23
+  - first:
+      213: -320097438960582663
+    second: Slime_animations_no_background_24
+  - first:
+      213: -4687141069819268506
+    second: Slime_animations_no_background_25
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Slime_animations_no_background_0
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 64
+        width: 11
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efacc8ac68611ce60800000000000000
+      internalID: 7980684782856882942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime_animations_no_background_1
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 69
+        width: 7
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ede7a8cddf688be0800000000000000
+      internalID: -1474805879618933275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime_animations_no_background_2
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 72
+        width: 7
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5421918318f3acee0800000000000000
+      internalID: -1240108923162652091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime_animations_no_background_3
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 69
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc0ecab7d927164b0800000000000000
+      internalID: -5448948053431230260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime_animations_no_background_4
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 66
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57312fd376c0a87c0800000000000000
+      internalID: -4068425675815382155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime_animations_no_background_5
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 64
+        width: 7
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab6da6eb5f49cf210800000000000000
+      internalID: 1368132169996359354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime_animations_no_background_6
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 64
+        width: 8
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dd7b06ad525feb20800000000000000
+      internalID: 3165839625235955156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime_animations_no_background_7
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 64
+        width: 7
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e24e74e896ddee570800000000000000
+      internalID: 8497972992323085358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime_animations_no_background_8
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 64
+        width: 7
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05f34d33fe29beee0800000000000000
+      internalID: -1230728517091311792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime_animations_no_background_9
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 64
+        width: 12
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4799295a6ccd936e0800000000000000
+      internalID: -1857210625574135436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime_animations_no_background_10
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 64
+        width: 9
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0be1766f8c3a801d0800000000000000
+      internalID: -3384275036446187856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime_animations_no_background_11
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 44
+        width: 8
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9f326ee93dd79f50800000000000000
+      internalID: 6888217395968753563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime_animations_no_background_12
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 44
+        width: 7
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ed5abc8f19476aa0800000000000000
+      internalID: -6167880764806767128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime_animations_no_background_13
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 44
+        width: 7
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca20ca2e903f086a0800000000000000
+      internalID: -6448887442611371348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime_animations_no_background_14
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 44
+        width: 7
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 523e8416c00ab3300800000000000000
+      internalID: 232955780771930917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime_animations_no_background_15
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 44
+        width: 9
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b2a82bab76e54f00800000000000000
+      internalID: 1100539102788887225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime_animations_no_background_16
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 43
+        width: 11
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97793ac0845eb3690800000000000000
+      internalID: -7621245846781978759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime_animations_no_background_17
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 23
+        width: 8
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b618d79b03019d9d0800000000000000
+      internalID: -2749148296076492437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime_animations_no_background_18
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 23
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bae26c9608a95a40800000000000000
+      internalID: 5357497978080914098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime_animations_no_background_19
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 23
+        width: 8
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c05acabc3d7e96aa0800000000000000
+      internalID: -6167143317865978612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime_animations_no_background_20
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 24
+        width: 11
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f73ee71a40a9c400800000000000000
+      internalID: 344983086560065525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime_animations_no_background_21
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 26
+        width: 11
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 973eb7c1739605000800000000000000
+      internalID: 22633683558851449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime_animations_no_background_22
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 23
+        width: 11
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ba630aa905631e00800000000000000
+      internalID: 1014265433269955256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime_animations_no_background_23
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 23
+        width: 9
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6c58531a73527f00800000000000000
+      internalID: 1113043841689607277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime_animations_no_background_24
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 23
+        width: 7
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fffd314319ce8bf0800000000000000
+      internalID: -320097438960582663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime_animations_no_background_25
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 5
+        width: 7
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6623741d70ee3feb0800000000000000
+      internalID: -4687141069819268506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime_animations_no_background_26
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 64
+        width: 12
+        height: 3
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8976f79dc7a797440aa5197096bd9960
+      internalID: 1636750381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime_animations_no_background_27
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 64
+        width: 18
+        height: 3
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a47d56b8c9b769948a625085384dd97c
+      internalID: -1491010795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime_animations_no_background_28
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 64
+        width: 15
+        height: 3
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 981bc14d0c397ba4cbafa5af36984f9c
+      internalID: 129758538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime_animations_no_background_29
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 64
+        width: 13
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 917f0d3fb073a1842ab1b01c80e75864
+      internalID: -1195599668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime_animations_no_background_30
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 24
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8333911b8c0c5b64bb8bd7a0026aefc2
+      internalID: -1145336625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime_animations_no_background_31
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 4
+        width: 3
+        height: 3
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcaa1e80808822d48b4e2bb80b7e1578
+      internalID: -1871165317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime_animations_no_background_32
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 5
+        width: 3
+        height: 2
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d7fb08ea35316a4385aec01509b6bd5
+      internalID: -463077767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime_animations_no_background_33
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 5
+        width: 7
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02d557cacb95f6b4cbb4f908a45f70ae
+      internalID: 1783022298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime_animations_no_background_34
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 5
+        width: 6
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ec38f51560aec542abb1d6790d0d2a1
+      internalID: 638923467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime_animations_no_background_35
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 5
+        width: 16
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c119f8bedbfc4274ea431a3c8cfc2413
+      internalID: 322128735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime_animations_no_background_36
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 5
+        width: 14
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccd869f161956f143a41ed456a174ed5
+      internalID: 1118243275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime_animations_no_background_37
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 5
+        width: 12
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c529e47402ba514fa5d11a76033448d
+      internalID: 399065872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 784a0194dc2eed44bb6fa523d8c05aad
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.0},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":7,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Slime_animations_no_background_0: 7980684782856882942
+      Slime_animations_no_background_1: -1474805879618933275
+      Slime_animations_no_background_10: -3384275036446187856
+      Slime_animations_no_background_11: 6888217395968753563
+      Slime_animations_no_background_12: -6167880764806767128
+      Slime_animations_no_background_13: -6448887442611371348
+      Slime_animations_no_background_14: 232955780771930917
+      Slime_animations_no_background_15: 1100539102788887225
+      Slime_animations_no_background_16: -7621245846781978759
+      Slime_animations_no_background_17: -2749148296076492437
+      Slime_animations_no_background_18: 5357497978080914098
+      Slime_animations_no_background_19: -6167143317865978612
+      Slime_animations_no_background_2: -1240108923162652091
+      Slime_animations_no_background_20: 344983086560065525
+      Slime_animations_no_background_21: 22633683558851449
+      Slime_animations_no_background_22: 1014265433269955256
+      Slime_animations_no_background_23: 1113043841689607277
+      Slime_animations_no_background_24: -320097438960582663
+      Slime_animations_no_background_25: -4687141069819268506
+      Slime_animations_no_background_26: 1636750381
+      Slime_animations_no_background_27: -1491010795
+      Slime_animations_no_background_28: 129758538
+      Slime_animations_no_background_29: -1195599668
+      Slime_animations_no_background_3: -5448948053431230260
+      Slime_animations_no_background_30: -1145336625
+      Slime_animations_no_background_31: -1871165317
+      Slime_animations_no_background_32: -463077767
+      Slime_animations_no_background_33: 1783022298
+      Slime_animations_no_background_34: 638923467
+      Slime_animations_no_background_35: 322128735
+      Slime_animations_no_background_36: 1118243275
+      Slime_animations_no_background_37: 399065872
+      Slime_animations_no_background_4: -4068425675815382155
+      Slime_animations_no_background_5: 1368132169996359354
+      Slime_animations_no_background_6: 3165839625235955156
+      Slime_animations_no_background_7: 8497972992323085358
+      Slime_animations_no_background_8: -1230728517091311792
+      Slime_animations_no_background_9: -1857210625574135436
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

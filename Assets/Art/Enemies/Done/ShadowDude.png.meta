@@ -1,0 +1,2836 @@
+fileFormatVersion: 2
+guid: 3402509b90cbb8a419f2653c98b73371
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6089931227810857437
+    second: pack 2 m1_0
+  - first:
+      213: -3012252448548012889
+    second: pack 2 m1_1
+  - first:
+      213: -7331656860584455853
+    second: pack 2 m1_2
+  - first:
+      213: -3590488064418900965
+    second: pack 2 m1_3
+  - first:
+      213: 2612950718698726481
+    second: pack 2 m1_4
+  - first:
+      213: -1349244184522924108
+    second: pack 2 m1_5
+  - first:
+      213: 8169462879231599437
+    second: pack 2 m1_6
+  - first:
+      213: 7321009275484704604
+    second: pack 2 m1_7
+  - first:
+      213: -3698694634436157104
+    second: pack 2 m1_8
+  - first:
+      213: 1799855452058683232
+    second: pack 2 m1_9
+  - first:
+      213: 2586911953013409875
+    second: pack 2 m1_10
+  - first:
+      213: -815774757403735273
+    second: pack 2 m1_11
+  - first:
+      213: 2050271294324289252
+    second: pack 2 m1_12
+  - first:
+      213: -6295721466187839178
+    second: pack 2 m1_13
+  - first:
+      213: -2302647676279312207
+    second: pack 2 m1_14
+  - first:
+      213: -6620224713420702970
+    second: pack 2 m1_15
+  - first:
+      213: -8390539975494782542
+    second: pack 2 m1_16
+  - first:
+      213: -2660541993238139282
+    second: pack 2 m1_17
+  - first:
+      213: 4117798830844183275
+    second: pack 2 m1_18
+  - first:
+      213: -5946960623696079580
+    second: pack 2 m1_19
+  - first:
+      213: 496140768494229255
+    second: pack 2 m1_20
+  - first:
+      213: -278155744079572068
+    second: pack 2 m1_21
+  - first:
+      213: -2202139012252599461
+    second: pack 2 m1_22
+  - first:
+      213: 3314977491614862406
+    second: pack 2 m1_23
+  - first:
+      213: 651563061195083835
+    second: pack 2 m1_24
+  - first:
+      213: -701275938849704106
+    second: pack 2 m1_25
+  - first:
+      213: -6002106851665320771
+    second: pack 2 m1_26
+  - first:
+      213: 3748424738003150937
+    second: pack 2 m1_27
+  - first:
+      213: -6967893937467060877
+    second: pack 2 m1_28
+  - first:
+      213: -3486366766749122329
+    second: pack 2 m1_29
+  - first:
+      213: 570500147538987506
+    second: pack 2 m1_30
+  - first:
+      213: 5714479056348799703
+    second: pack 2 m1_31
+  - first:
+      213: 6886049144848732632
+    second: pack 2 m1_32
+  - first:
+      213: -6861079079285769984
+    second: pack 2 m1_33
+  - first:
+      213: -4098185027526413845
+    second: pack 2 m1_34
+  - first:
+      213: -5572008311547080417
+    second: pack 2 m1_35
+  - first:
+      213: 2596112300185205027
+    second: pack 2 m1_36
+  - first:
+      213: 3827542940688076011
+    second: pack 2 m1_37
+  - first:
+      213: -7817041408931941017
+    second: pack 2 m1_38
+  - first:
+      213: 8745598415394234725
+    second: pack 2 m1_39
+  - first:
+      213: -5542292770027083480
+    second: pack 2 m1_40
+  - first:
+      213: 9030526305937772276
+    second: pack 2 m1_41
+  - first:
+      213: -1178462713571979992
+    second: pack 2 m1_42
+  - first:
+      213: 6672052642297601407
+    second: pack 2 m1_43
+  - first:
+      213: 6768512400542630523
+    second: pack 2 m1_44
+  - first:
+      213: 5489389826608086226
+    second: pack 2 m1_45
+  - first:
+      213: 2785136364341932994
+    second: pack 2 m1_46
+  - first:
+      213: 970271552803270981
+    second: pack 2 m1_47
+  - first:
+      213: -4664694760787672892
+    second: pack 2 m1_48
+  - first:
+      213: 8937315554716396039
+    second: pack 2 m1_49
+  - first:
+      213: 2990171183775572505
+    second: pack 2 m1_50
+  - first:
+      213: -6445560512262374071
+    second: pack 2 m1_51
+  - first:
+      213: 2098426530454769563
+    second: pack 2 m1_52
+  - first:
+      213: 6490390720247878822
+    second: pack 2 m1_53
+  - first:
+      213: 8966511043816015409
+    second: pack 2 m1_54
+  - first:
+      213: -7181290719758191989
+    second: pack 2 m1_55
+  - first:
+      213: 5475168381620078065
+    second: pack 2 m1_56
+  - first:
+      213: 791956809948813327
+    second: pack 2 m1_57
+  - first:
+      213: -4560015850126324665
+    second: pack 2 m1_58
+  - first:
+      213: -4132535657830027516
+    second: pack 2 m1_59
+  - first:
+      213: -506432518304949879
+    second: pack 2 m1_60
+  - first:
+      213: 2783518837933212460
+    second: pack 2 m1_61
+  - first:
+      213: -5588504628765029511
+    second: pack 2 m1_62
+  - first:
+      213: -437333380850581307
+    second: pack 2 m1_63
+  - first:
+      213: 2456722172526467109
+    second: pack 2 m1_64
+  - first:
+      213: -5331616650441426949
+    second: pack 2 m1_65
+  - first:
+      213: -3669879118140769187
+    second: pack 2 m1_66
+  - first:
+      213: -5441396604259570090
+    second: pack 2 m1_67
+  - first:
+      213: 1848783807180376356
+    second: pack 2 m1_68
+  - first:
+      213: -358992485594533487
+    second: pack 2 m1_69
+  - first:
+      213: -2156273761534449174
+    second: pack 2 m1_70
+  - first:
+      213: -6970906962271679458
+    second: pack 2 m1_71
+  - first:
+      213: -1288282416802675830
+    second: pack 2 m1_72
+  - first:
+      213: 1596054238314992613
+    second: pack 2 m1_73
+  - first:
+      213: -2340474303281681725
+    second: pack 2 m1_74
+  - first:
+      213: 9065492364468308250
+    second: pack 2 m1_75
+  - first:
+      213: 1782051518838596963
+    second: pack 2 m1_76
+  - first:
+      213: -6044549339654519301
+    second: pack 2 m1_77
+  - first:
+      213: -8991462842295348399
+    second: pack 2 m1_78
+  - first:
+      213: 6716935338479365216
+    second: pack 2 m1_79
+  - first:
+      213: 3734393563605754433
+    second: pack 2 m1_80
+  - first:
+      213: 703763965317089403
+    second: pack 2 m1_81
+  - first:
+      213: 4755703599324652052
+    second: pack 2 m1_82
+  - first:
+      213: -3887700731967531048
+    second: pack 2 m1_83
+  - first:
+      213: 2071995359374366911
+    second: pack 2 m1_84
+  - first:
+      213: 947720292728563327
+    second: pack 2 m1_85
+  - first:
+      213: 2386197113546865679
+    second: pack 2 m1_86
+  - first:
+      213: 4119004389002834348
+    second: pack 2 m1_87
+  - first:
+      213: 7331986407435733920
+    second: pack 2 m1_88
+  - first:
+      213: 4057516913082723496
+    second: pack 2 m1_89
+  - first:
+      213: -2997106805684926288
+    second: pack 2 m1_90
+  - first:
+      213: -3111775417677770965
+    second: pack 2 m1_91
+  - first:
+      213: -2508682264281295978
+    second: pack 2 m1_92
+  - first:
+      213: 8533909434702489287
+    second: pack 2 m1_93
+  - first:
+      213: -7065421548906097698
+    second: pack 2 m1_94
+  - first:
+      213: -2166493693263113539
+    second: pack 2 m1_95
+  - first:
+      213: -7113147413808476197
+    second: pack 2 m1_96
+  - first:
+      213: 8276696994501193856
+    second: pack 2 m1_97
+  - first:
+      213: 99878972027409986
+    second: pack 2 m1_98
+  - first:
+      213: -3278588297636178812
+    second: pack 2 m1_99
+  - first:
+      213: 1760043575666141466
+    second: pack 2 m1_100
+  - first:
+      213: 2354219824423793755
+    second: pack 2 m1_101
+  - first:
+      213: -6200300979508112250
+    second: pack 2 m1_102
+  - first:
+      213: 5775251093133467839
+    second: pack 2 m1_103
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ShadowDude_0
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 544
+        width: 8
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d249fb5a486af20408e13f0562453901
+      internalID: 848382323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShadowDude_1
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 544
+        width: 8
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 944c89d93507b9940b96c40186ed3737
+      internalID: 1147297134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShadowDude_2
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 544
+        width: 8
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fcbe5e61e2999048ae88d8517978758
+      internalID: -512267195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShadowDude_3
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 544
+        width: 8
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a104d62ff9017a241b61f25bf506faef
+      internalID: -672788697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShadowDude_4
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 544
+        width: 9
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceaee58dc9b37ed4780f2101da569f96
+      internalID: 814211606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShadowDude_5
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 544
+        width: 9
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 530ff603d618e4b499e443858a451c18
+      internalID: 614745497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShadowDude_6
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 544
+        width: 9
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d25b3115f6f400e44a7ced9eff318427
+      internalID: 956855741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShadowDude_7
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 544
+        width: 9
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73dd481254ace714a8c68112082c616d
+      internalID: -1030275956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShadowDude_8
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 496
+        width: 8
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 073a1a63d85379848aac1c94755d74af
+      internalID: 72871338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShadowDude_9
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 496
+        width: 8
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22a54230af8092144afce9fe8a8e2dbd
+      internalID: 1111004988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShadowDude_10
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 496
+        width: 8
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10aa82383ab2f4c489a44b85cbe9fa18
+      internalID: -935887158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShadowDude_11
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 496
+        width: 8
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62c4032aa1c4fec41bb4e9f9eaae2525
+      internalID: 311005183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShadowDude_12
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 496
+        width: 7
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11e3c228f8eb20d42af8d3c4be4e4687
+      internalID: -1059158909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShadowDude_13
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 496
+        width: 7
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db194d58bcdee194a9c4d5875ff0dd68
+      internalID: -1002335867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShadowDude_14
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 496
+        width: 7
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a1882a9c45aa7142bc28463fd4c978b
+      internalID: 402811616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShadowDude_15
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 496
+        width: 7
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8f09d990db29614eac741870277341d
+      internalID: 1233167663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShadowDude_16
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 448
+        width: 8
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25a9a3d7b044c7548af5eabea93763e9
+      internalID: 906649307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShadowDude_17
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 449
+        width: 8
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 496e507dc58d2384c8330d2e24108cfa
+      internalID: 334203046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShadowDude_18
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 449
+        width: 9
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edf8a6909ae6489418faa5c47f1eeb8f
+      internalID: -222170803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShadowDude_19
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 448
+        width: 14
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95523417c23bafe4cb0ebcfb23ae06c1
+      internalID: -129711961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShadowDude_20
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 448
+        width: 17
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fb95a979b4e39643859127557940214
+      internalID: -871186013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShadowDude_21
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 448
+        width: 17
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a02a90844ebb47540900df94f99433d8
+      internalID: -998922439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShadowDude_22
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 448
+        width: 17
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9e523a625f27fe449a02bdece95ba35
+      internalID: 1144817141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShadowDude_23
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 448
+        width: 17
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c755f5ef3795e14a8c0d5bfacb3e938
+      internalID: 114758639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShadowDude_24
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 448
+        width: 17
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e0c05b4b69e98542a1839dfa0632830
+      internalID: -746915817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShadowDude_25
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 448
+        width: 17
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b86baafade67f5a4fae9ff8e508fdf8e
+      internalID: 1774975956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShadowDude_26
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 400
+        width: 8
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7005dccf4724f1140b812a36b02c2366
+      internalID: 747509820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShadowDude_27
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 400
+        width: 8
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2ad0753a1d8da14d930b9fd01be66b6
+      internalID: 683581740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShadowDude_28
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 400
+        width: 14
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 723e5f1d8d61a154abcfc46f66d7364d
+      internalID: -1480801345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShadowDude_29
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 400
+        width: 18
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aa45c316207d7249a4199ba412dc915
+      internalID: 722847207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShadowDude_30
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 400
+        width: 17
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0575ef987da2a942b8c677b68a36c13
+      internalID: -2023613585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShadowDude_31
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 400
+        width: 17
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbf1e1616619d734eba508ae15365f0f
+      internalID: -1861812936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShadowDude_32
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 400
+        width: 18
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c074279cb871884198a3dcb9b996455
+      internalID: -1213358552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShadowDude_33
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 400
+        width: 18
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8196821ef79f514eb5d44064e45c83e
+      internalID: 1703793311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShadowDude_34
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 352
+        width: 8
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 382a8613dd8a0d34f89a67d4647e8e0f
+      internalID: 1228871903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShadowDude_35
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 352
+        width: 9
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65cf469c68d595f47b07c0880f398df7
+      internalID: 805625715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShadowDude_36
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 352
+        width: 8
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55d8d1fc1ffc64f4e991c325b2cc0d33
+      internalID: 39928077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShadowDude_37
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 352
+        width: 8
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2f0d0da7b6ffec4a969348c6ba3c855
+      internalID: -728243139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShadowDude_38
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 352
+        width: 13
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1ab8ca98a6b67a41b4137dd09932ab9
+      internalID: 1675823671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShadowDude_39
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 352
+        width: 13
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a3d3d4b1f28ae0448e2650565ae53fc
+      internalID: 1447182873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShadowDude_40
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 352
+        width: 8
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 770012a8af71dc24cb561db0ecd7b2fc
+      internalID: 961359555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShadowDude_41
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 352
+        width: 8
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf805c1339a13a74395651073e5381db
+      internalID: -1084643805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShadowDude_42
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 304
+        width: 7
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba9dae78f4006a94fa0198e04bfc5c3c
+      internalID: -794606793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShadowDude_43
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 304
+        width: 9
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca8988a00b0d0b44b99390b5c8b2d210
+      internalID: 36872279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShadowDude_44
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 304
+        width: 12
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0964fd7109a2e124082a6eed9ae2b9bf
+      internalID: 1678196713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShadowDude_45
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 304
+        width: 12
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 494bdc3e4fca69848af4751905bc0651
+      internalID: 605534568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShadowDude_46
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 304
+        width: 13
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 022bd5974e88d4345a6df3aaf180e534
+      internalID: 2075929090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShadowDude_47
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 304
+        width: 22
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8750dc890231a134f8534e9a489bb1ef
+      internalID: 1802898543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShadowDude_48
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 304
+        width: 12
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfe6e450e18911e4fbb02fbd8f739e69
+      internalID: -2114167447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShadowDude_49
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 304
+        width: 11
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b64cff32722badd498364dceec6e5d39
+      internalID: -1257692829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShadowDude_50
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 304
+        width: 11
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e963eb613e152b468877ccbd6333f3e
+      internalID: 593976665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShadowDude_51
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 304
+        width: 9
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4f6e6bf316156e419d19ba2187d5e3e
+      internalID: -1989126708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShadowDude_52
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 256
+        width: 8
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaf04cb96b999c146a67cef06e27e22a
+      internalID: -585274008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShadowDude_53
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 256
+        width: 8
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c991a67632550314993fa07586ab3838
+      internalID: -1333962822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShadowDude_54
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 256
+        width: 9
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8e94fce7782bfc4784e8e2094babbe3
+      internalID: -1417779317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShadowDude_55
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 256
+        width: 9
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 957eb34310fd48f45ba46cfdbd22065c
+      internalID: 1270059222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShadowDude_56
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 256
+        width: 10
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21a05ec1eab8fd244be20f24cb070e74
+      internalID: 534269564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShadowDude_57
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 256
+        width: 10
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9b3d4aa50c39ac4d8f4ac52cb564eb4
+      internalID: -627985084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShadowDude_58
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 256
+        width: 10
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac8e7ac6bc3b63e42be732120ac2817e
+      internalID: 2146072635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShadowDude_59
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 256
+        width: 10
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 138caa86ee4b4f44e95919d2f6e7f457
+      internalID: 75189306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShadowDude_60
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 208
+        width: 8
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b13c31f49b95fd64590c48089f1f1649
+      internalID: -2103777018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShadowDude_61
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 209
+        width: 8
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75f745f2f6e9fab43a63fab18d0f8491
+      internalID: 1412878451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShadowDude_62
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 209
+        width: 9
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12202a8dfe07429418a8427964373abf
+      internalID: 1306026841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShadowDude_63
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 191
+        width: 16
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a85d6b60a84845c438ee4266f75e90ec
+      internalID: -416623216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShadowDude_64
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 208
+        width: 18
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4edc17e81fb07f468aa82fdbe3fc005
+      internalID: -2043293509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShadowDude_65
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 187
+        width: 22
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06abe6bf0359c6a438252f6ca71884bd
+      internalID: 451710221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShadowDude_66
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 187
+        width: 18
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32ff4810aaac7064584c149ca325b330
+      internalID: -1755328858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShadowDude_67
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 187
+        width: 18
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bee15be59c02a5945846bf87b3f9c2fa
+      internalID: -1576669100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShadowDude_68
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 208
+        width: 18
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b9223536e1d1cb429ed161ad221a4e4
+      internalID: 1497296206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShadowDude_69
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 208
+        width: 18
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cb7f6e7e23a98d4780991cc0343516f
+      internalID: 575572900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShadowDude_70
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 160
+        width: 18
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4b1d257ed4791f40a1a536ba884c29a
+      internalID: -1718994093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShadowDude_71
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 160
+        width: 18
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aae631e87aafd4948b1d3d4323d815b4
+      internalID: -1138049129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShadowDude_72
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 160
+        width: 18
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 130917e64a044374d8bca16763019c16
+      internalID: -1104913186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShadowDude_73
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 160
+        width: 18
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f37f850a7aa42fe499eb7ad2fe177d15
+      internalID: -521995370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShadowDude_74
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 160
+        width: 18
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acb1e869c51202a47a24fe7118c78d5f
+      internalID: -513921876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShadowDude_75
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 160
+        width: 18
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4206a90eca13af7459b42593baba6119
+      internalID: -250066430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShadowDude_76
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 160
+        width: 18
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a75866108bf4eb4fa6389e2caa7290b
+      internalID: -698493066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShadowDude_77
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 160
+        width: 18
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6492fb4e5e3c0144eb16d532837bde34
+      internalID: -2056670043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShadowDude_78
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 112
+        width: 8
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e79d6ff3cbebb294e827eb9887390421
+      internalID: 1207482516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShadowDude_79
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 112
+        width: 8
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec5b3d029e07eb74faa8f0558b70f476
+      internalID: 863907508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShadowDude_80
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 112
+        width: 9
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd019d9d3994b5f479c82f7563c91f19
+      internalID: 15780957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShadowDude_81
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 112
+        width: 9
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6642a1206370f9e499260cc323bbfd18
+      internalID: 1603724959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShadowDude_82
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 112
+        width: 8
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba4c2eac2da6c7042a6f638f8a072671
+      internalID: -809634153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShadowDude_83
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 112
+        width: 8
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be9fe1a940b7d864492ec33a2cd502e7
+      internalID: 1573126781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShadowDude_84
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 112
+        width: 8
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a719111a8e056b4ba93ed68767ef997
+      internalID: -1852408620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShadowDude_85
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 112
+        width: 8
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f71465df376e7b340b1ebcfd2bcd13ee
+      internalID: 1046406850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShadowDude_86
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 64
+        width: 8
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aea6c21a8526354ba43a4544eee8918
+      internalID: -948644036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShadowDude_87
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 64
+        width: 9
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7980e1f8e5347346a654d2f31832422
+      internalID: -1434603965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShadowDude_88
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 64
+        width: 8
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f995696d5f1f124ba54609063aa0d06
+      internalID: -327715335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShadowDude_89
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 64
+        width: 8
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7621406551dd9ee4d944c2a6e5095609
+      internalID: -1997499119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShadowDude_90
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 50
+        width: 28
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e183d6cb45ce80a408314429aa713f5e
+      internalID: -1435241848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShadowDude_91
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 64
+        width: 31
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b76bb16852eb944491e7e7caf8cfbfc
+      internalID: 1094685822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShadowDude_92
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 64
+        width: 9
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d095770ba4ca6945985c5522c88d91c
+      internalID: 927751149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShadowDude_93
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 64
+        width: 9
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e3d9da22304f9d4eb99646d664b3fd0
+      internalID: -296586455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShadowDude_94
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 16
+        width: 7
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34eafbc5740da2a4391cde5b40da11a1
+      internalID: -847251309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShadowDude_95
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 16
+        width: 9
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22735ad8a638a5041ac77a4d8ad11a21
+      internalID: 232327253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShadowDude_96
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 16
+        width: 12
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c387ada515532644aabfb60e7ccb3313
+      internalID: -1000460752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShadowDude_97
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 16
+        width: 12
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91395c7d6d485004699ccbff87ae0f3d
+      internalID: -21536363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShadowDude_98
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 16
+        width: 13
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be33613330d3da74aa10dbb9fc67ec7c
+      internalID: -1035972335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShadowDude_99
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 16
+        width: 35
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4750153ca275b549ba7429cf5838be9
+      internalID: -949316368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShadowDude_100
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 16
+        width: 12
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 331fa9ebb34410340b604d5e334ff2b4
+      internalID: 1630818095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShadowDude_101
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 16
+        width: 11
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ec97ca5b6d01044eab8b9c5523d1cb1
+      internalID: 100622533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShadowDude_102
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 16
+        width: 11
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 003b69b7689e92a41b9dcc529f4db288
+      internalID: -517270518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShadowDude_103
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 16
+        width: 9
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a50815481bcd27442a3acfd382b1fe95
+      internalID: 264267273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 918999dfead01504aa8e71d8b740cd2d
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.0},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":7,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      ShadowDude_0: 848382323
+      ShadowDude_1: 1147297134
+      ShadowDude_10: -935887158
+      ShadowDude_100: 1630818095
+      ShadowDude_101: 100622533
+      ShadowDude_102: -517270518
+      ShadowDude_103: 264267273
+      ShadowDude_11: 311005183
+      ShadowDude_12: -1059158909
+      ShadowDude_13: -1002335867
+      ShadowDude_14: 402811616
+      ShadowDude_15: 1233167663
+      ShadowDude_16: 906649307
+      ShadowDude_17: 334203046
+      ShadowDude_18: -222170803
+      ShadowDude_19: -129711961
+      ShadowDude_2: -512267195
+      ShadowDude_20: -871186013
+      ShadowDude_21: -998922439
+      ShadowDude_22: 1144817141
+      ShadowDude_23: 114758639
+      ShadowDude_24: -746915817
+      ShadowDude_25: 1774975956
+      ShadowDude_26: 747509820
+      ShadowDude_27: 683581740
+      ShadowDude_28: -1480801345
+      ShadowDude_29: 722847207
+      ShadowDude_3: -672788697
+      ShadowDude_30: -2023613585
+      ShadowDude_31: -1861812936
+      ShadowDude_32: -1213358552
+      ShadowDude_33: 1703793311
+      ShadowDude_34: 1228871903
+      ShadowDude_35: 805625715
+      ShadowDude_36: 39928077
+      ShadowDude_37: -728243139
+      ShadowDude_38: 1675823671
+      ShadowDude_39: 1447182873
+      ShadowDude_4: 814211606
+      ShadowDude_40: 961359555
+      ShadowDude_41: -1084643805
+      ShadowDude_42: -794606793
+      ShadowDude_43: 36872279
+      ShadowDude_44: 1678196713
+      ShadowDude_45: 605534568
+      ShadowDude_46: 2075929090
+      ShadowDude_47: 1802898543
+      ShadowDude_48: -2114167447
+      ShadowDude_49: -1257692829
+      ShadowDude_5: 614745497
+      ShadowDude_50: 593976665
+      ShadowDude_51: -1989126708
+      ShadowDude_52: -585274008
+      ShadowDude_53: -1333962822
+      ShadowDude_54: -1417779317
+      ShadowDude_55: 1270059222
+      ShadowDude_56: 534269564
+      ShadowDude_57: -627985084
+      ShadowDude_58: 2146072635
+      ShadowDude_59: 75189306
+      ShadowDude_6: 956855741
+      ShadowDude_60: -2103777018
+      ShadowDude_61: 1412878451
+      ShadowDude_62: 1306026841
+      ShadowDude_63: -416623216
+      ShadowDude_64: -2043293509
+      ShadowDude_65: 451710221
+      ShadowDude_66: -1755328858
+      ShadowDude_67: -1576669100
+      ShadowDude_68: 1497296206
+      ShadowDude_69: 575572900
+      ShadowDude_7: -1030275956
+      ShadowDude_70: -1718994093
+      ShadowDude_71: -1138049129
+      ShadowDude_72: -1104913186
+      ShadowDude_73: -521995370
+      ShadowDude_74: -513921876
+      ShadowDude_75: -250066430
+      ShadowDude_76: -698493066
+      ShadowDude_77: -2056670043
+      ShadowDude_78: 1207482516
+      ShadowDude_79: 863907508
+      ShadowDude_8: 72871338
+      ShadowDude_80: 15780957
+      ShadowDude_81: 1603724959
+      ShadowDude_82: -809634153
+      ShadowDude_83: 1573126781
+      ShadowDude_84: -1852408620
+      ShadowDude_85: 1046406850
+      ShadowDude_86: -948644036
+      ShadowDude_87: -1434603965
+      ShadowDude_88: -327715335
+      ShadowDude_89: -1997499119
+      ShadowDude_9: 1111004988
+      ShadowDude_90: -1435241848
+      ShadowDude_91: 1094685822
+      ShadowDude_92: 927751149
+      ShadowDude_93: -296586455
+      ShadowDude_94: -847251309
+      ShadowDude_95: 232327253
+      ShadowDude_96: -1000460752
+      ShadowDude_97: -21536363
+      ShadowDude_98: -1035972335
+      ShadowDude_99: -949316368
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

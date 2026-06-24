@@ -1,0 +1,594 @@
+fileFormatVersion: 2
+guid: 6bbf310897e1bd14f8dfa588229a3397
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -663436639281003001
+    second: Loading Icons 5_0
+  - first:
+      213: 7704386466835613997
+    second: Loading Icons 5_1
+  - first:
+      213: 7664445110547183277
+    second: Loading Icons 5_2
+  - first:
+      213: 5710669377304684310
+    second: Loading Icons 5_3
+  - first:
+      213: -2528826770366187379
+    second: Loading Icons 5_4
+  - first:
+      213: 7552327265675852697
+    second: Loading Icons 5_5
+  - first:
+      213: 344090039420842673
+    second: Loading Icons 5_6
+  - first:
+      213: -6024170507782281624
+    second: Loading Icons 5_7
+  - first:
+      213: -7202629123747840618
+    second: Loading Icons 5_8
+  - first:
+      213: 6571615041137773777
+    second: Loading Icons 5_9
+  - first:
+      213: -4389748306542408529
+    second: Loading Icons 5_10
+  - first:
+      213: 8791856803411941861
+    second: Loading Icons 5_11
+  - first:
+      213: 7192694964971862089
+    second: Loading Icons 5_12
+  - first:
+      213: -6095658010369690836
+    second: Loading Icons 5_13
+  - first:
+      213: -2679935260234160910
+    second: Loading Icons 5_14
+  - first:
+      213: -1135220583480710201
+    second: Loading Icons 5_15
+  - first:
+      213: 6629930823469930096
+    second: Loading Icons 5_16
+  - first:
+      213: 5319037888156769007
+    second: Loading Icons 5_17
+  - first:
+      213: 838881695935628564
+    second: Loading Icons 5_18
+  - first:
+      213: 2478483903526131514
+    second: Loading Icons 5_19
+  - first:
+      213: -7070774542191376568
+    second: Loading Icons 5_20
+  - first:
+      213: 3208512571904511650
+    second: Loading Icons 5_21
+  - first:
+      213: 4469011314020057224
+    second: Loading Icons 5_22
+  - first:
+      213: 2693480438860502271
+    second: Loading Icons 5_23
+  - first:
+      213: 5122788669387318461
+    second: Loading Icons 5_24
+  - first:
+      213: 5326785703324636915
+    second: Loading Icons 5_25
+  - first:
+      213: -863631750411569821
+    second: Loading Icons 5_26
+  - first:
+      213: 6168455484061184452
+    second: Loading Icons 5_27
+  - first:
+      213: 8201248419593194610
+    second: Loading Icons 5_28
+  - first:
+      213: -7633950905140900519
+    second: Loading Icons 5_29
+  - first:
+      213: 132137264989571276
+    second: Loading Icons 5_30
+  - first:
+      213: 5003669026027557858
+    second: Loading Icons 5_31
+  - first:
+      213: 3169694428823914653
+    second: Loading Icons 5_32
+  - first:
+      213: 2940568626767901917
+    second: Loading Icons 5_33
+  - first:
+      213: 2117204585117432911
+    second: Loading Icons 5_34
+  - first:
+      213: -2328594236977832249
+    second: Loading Icons 5_35
+  - first:
+      213: -2761307336372077304
+    second: Loading Icons 5_36
+  - first:
+      213: -7445421648263946060
+    second: Loading Icons 5_37
+  - first:
+      213: -6117194354880045081
+    second: Loading Icons 5_38
+  - first:
+      213: -4791740260966291406
+    second: Loading Icons 5_39
+  - first:
+      213: -1633018297607411085
+    second: Loading Icons 5_40
+  - first:
+      213: -2156453106835505074
+    second: Loading Icons 5_41
+  - first:
+      213: -7768988184977286474
+    second: Loading Icons 5_42
+  - first:
+      213: -8166887669827850715
+    second: Loading Icons 5_43
+  - first:
+      213: 6975889343334975698
+    second: Loading Icons 5_44
+  - first:
+      213: -4729075955289940679
+    second: Loading Icons 5_45
+  - first:
+      213: 3886924711024620161
+    second: Loading Icons 5_46
+  - first:
+      213: 5544894727170502907
+    second: Loading Icons 5_47
+  - first:
+      213: -5927271400852675839
+    second: Loading Icons 5_48
+  - first:
+      213: 4404290630522805006
+    second: Loading Icons 5_49
+  - first:
+      213: -1321516747896301677
+    second: Loading Icons 5_50
+  - first:
+      213: 3389222608087282894
+    second: Loading Icons 5_51
+  - first:
+      213: 8568024430291355270
+    second: Loading Icons 5_52
+  - first:
+      213: -6940030418595342328
+    second: Loading Icons 5_53
+  - first:
+      213: 3659657264397393070
+    second: Loading Icons 5_54
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Loading Icons 5_0
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 0
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7064da044effac6f0800000000000000
+      internalID: -663436639281003001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loading Icons 5_1
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 0
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2940180caa7bea60800000000000000
+      internalID: 7704386466835613997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loading Icons 5_2
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da6f4a658349d5a60800000000000000
+      internalID: 7664445110547183277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loading Icons 5_3
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 0
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61762ffca8f504f40800000000000000
+      internalID: 5710669377304684310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loading Icons 5_4
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 0
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8833dd537dc7ecd0800000000000000
+      internalID: -2528826770366187379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loading Icons 5_5
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 0
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99b3b1a52a14fc860800000000000000
+      internalID: 7552327265675852697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loading Icons 5_6
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 0
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b2fd6a511476c400800000000000000
+      internalID: 344090039420842673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loading Icons 5_7
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 0
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 866a04137d8d56ca0800000000000000
+      internalID: -6024170507782281624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loading Icons 5_8
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 0
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69d702e19fe1b0c90800000000000000
+      internalID: -7202629123747840618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loading Icons 5_9
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 0
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dc81afdf01133b50800000000000000
+      internalID: 6571615041137773777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loading Icons 5_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: facca2f4c2b7413c0800000000000000
+      internalID: -4389748306542408529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 922fb11136306b14dadee9a4eba6913f
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Loading Icons 5_0: -663436639281003001
+      Loading Icons 5_1: 7704386466835613997
+      Loading Icons 5_10: -4389748306542408529
+      Loading Icons 5_11: 8791856803411941861
+      Loading Icons 5_12: 7192694964971862089
+      Loading Icons 5_13: -6095658010369690836
+      Loading Icons 5_14: -2679935260234160910
+      Loading Icons 5_15: -1135220583480710201
+      Loading Icons 5_16: 6629930823469930096
+      Loading Icons 5_17: 5319037888156769007
+      Loading Icons 5_18: 838881695935628564
+      Loading Icons 5_19: 2478483903526131514
+      Loading Icons 5_2: 7664445110547183277
+      Loading Icons 5_20: -7070774542191376568
+      Loading Icons 5_21: 3208512571904511650
+      Loading Icons 5_22: 4469011314020057224
+      Loading Icons 5_23: 2693480438860502271
+      Loading Icons 5_24: 5122788669387318461
+      Loading Icons 5_25: 5326785703324636915
+      Loading Icons 5_26: -863631750411569821
+      Loading Icons 5_27: 6168455484061184452
+      Loading Icons 5_28: 8201248419593194610
+      Loading Icons 5_29: -7633950905140900519
+      Loading Icons 5_3: 5710669377304684310
+      Loading Icons 5_30: 132137264989571276
+      Loading Icons 5_31: 5003669026027557858
+      Loading Icons 5_32: 3169694428823914653
+      Loading Icons 5_33: 2940568626767901917
+      Loading Icons 5_34: 2117204585117432911
+      Loading Icons 5_35: -2328594236977832249
+      Loading Icons 5_36: -2761307336372077304
+      Loading Icons 5_37: -7445421648263946060
+      Loading Icons 5_38: -6117194354880045081
+      Loading Icons 5_39: -4791740260966291406
+      Loading Icons 5_4: -2528826770366187379
+      Loading Icons 5_40: -1633018297607411085
+      Loading Icons 5_41: -2156453106835505074
+      Loading Icons 5_42: -7768988184977286474
+      Loading Icons 5_43: -8166887669827850715
+      Loading Icons 5_44: 6975889343334975698
+      Loading Icons 5_45: -4729075955289940679
+      Loading Icons 5_46: 3886924711024620161
+      Loading Icons 5_47: 5544894727170502907
+      Loading Icons 5_48: -5927271400852675839
+      Loading Icons 5_49: 4404290630522805006
+      Loading Icons 5_5: 7552327265675852697
+      Loading Icons 5_50: -1321516747896301677
+      Loading Icons 5_51: 3389222608087282894
+      Loading Icons 5_52: 8568024430291355270
+      Loading Icons 5_53: -6940030418595342328
+      Loading Icons 5_54: 3659657264397393070
+      Loading Icons 5_6: 344090039420842673
+      Loading Icons 5_7: -6024170507782281624
+      Loading Icons 5_8: -7202629123747840618
+      Loading Icons 5_9: 6571615041137773777
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

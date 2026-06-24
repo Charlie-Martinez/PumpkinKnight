@@ -1,0 +1,548 @@
+fileFormatVersion: 2
+guid: b9a2726fc1f613944a19b9c48696e8eb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3309892055910869354
+    second: dark fantasy big boss death_0
+  - first:
+      213: 1878118343550801641
+    second: dark fantasy big boss death_1
+  - first:
+      213: -3803597777590066810
+    second: dark fantasy big boss death_2
+  - first:
+      213: -3735304527417120494
+    second: dark fantasy big boss death_3
+  - first:
+      213: -5374108692661195312
+    second: dark fantasy big boss death_4
+  - first:
+      213: -1734277817354227250
+    second: dark fantasy big boss death_5
+  - first:
+      213: -5833885002599880697
+    second: dark fantasy big boss death_6
+  - first:
+      213: 2815948821813889807
+    second: dark fantasy big boss death_7
+  - first:
+      213: -3571581729285033753
+    second: dark fantasy big boss death_8
+  - first:
+      213: 4186054540613213957
+    second: dark fantasy big boss death_9
+  - first:
+      213: -8145054639242918816
+    second: dark fantasy big boss death_10
+  - first:
+      213: -4069999257526223446
+    second: dark fantasy big boss death_11
+  - first:
+      213: 1201444274662314981
+    second: dark fantasy big boss death_12
+  - first:
+      213: 133109624213904945
+    second: dark fantasy big boss death_13
+  - first:
+      213: -2486791000357152061
+    second: dark fantasy big boss death_14
+  - first:
+      213: -8994440367077629226
+    second: dark fantasy big boss death_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: dark fantasy big boss death_0
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 8
+        width: 36
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6969b8236b6e012d0800000000000000
+      internalID: -3309892055910869354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark fantasy big boss death_1
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 8
+        width: 33
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e69d79ceaa601a10800000000000000
+      internalID: 1878118343550801641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark fantasy big boss death_2
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 8
+        width: 27
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 681674e39f7e63bc0800000000000000
+      internalID: -3803597777590066810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark fantasy big boss death_3
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 8
+        width: 29
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 219e463a258892cc0800000000000000
+      internalID: -3735304527417120494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark fantasy big boss death_4
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 8
+        width: 27
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dd27950e945b65b0800000000000000
+      internalID: -5374108692661195312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark fantasy big boss death_5
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 8
+        width: 24
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec1f2c2838b9ee7e0800000000000000
+      internalID: -1734277817354227250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark fantasy big boss death_6
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 8
+        width: 22
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7082e87df70e90fa0800000000000000
+      internalID: -5833885002599880697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark fantasy big boss death_7
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 8
+        width: 22
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0b85eda882441720800000000000000
+      internalID: 2815948821813889807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark fantasy big boss death_8
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 8
+        width: 22
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e0b0bb17513f6ec0800000000000000
+      internalID: -3571581729285033753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark fantasy big boss death_9
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 8
+        width: 25
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50f59af0d6ad71a30800000000000000
+      internalID: 4186054540613213957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark fantasy big boss death_10
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 8
+        width: 29
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06447cfb5f3f6fe80800000000000000
+      internalID: -8145054639242918816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark fantasy big boss death_11
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 8
+        width: 37
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aadbb033d357487c0800000000000000
+      internalID: -4069999257526223446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark fantasy big boss death_12
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 8
+        width: 41
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e39ca8c3336ca010800000000000000
+      internalID: 1201444274662314981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark fantasy big boss death_13
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 8
+        width: 45
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13e947b7f76e8d100800000000000000
+      internalID: 133109624213904945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark fantasy big boss death_14
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 8
+        width: 44
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cad211c2c42d7dd0800000000000000
+      internalID: -2486791000357152061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark fantasy big boss death_15
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 8
+        width: 45
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d267e604245d2380800000000000000
+      internalID: -8994440367077629226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 773af461b5280244badb7e38d2c23b8d
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.0},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":7,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      dark fantasy big boss death_0: -3309892055910869354
+      dark fantasy big boss death_1: 1878118343550801641
+      dark fantasy big boss death_10: -8145054639242918816
+      dark fantasy big boss death_11: -4069999257526223446
+      dark fantasy big boss death_12: 1201444274662314981
+      dark fantasy big boss death_13: 133109624213904945
+      dark fantasy big boss death_14: -2486791000357152061
+      dark fantasy big boss death_15: -8994440367077629226
+      dark fantasy big boss death_2: -3803597777590066810
+      dark fantasy big boss death_3: -3735304527417120494
+      dark fantasy big boss death_4: -5374108692661195312
+      dark fantasy big boss death_5: -1734277817354227250
+      dark fantasy big boss death_6: -5833885002599880697
+      dark fantasy big boss death_7: 2815948821813889807
+      dark fantasy big boss death_8: -3571581729285033753
+      dark fantasy big boss death_9: 4186054540613213957
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

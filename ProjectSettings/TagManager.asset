@@ -2,8 +2,9 @@
 %TAG !u! tag:unity3d.com,2011:
 --- !u!78 &1
 TagManager:
-  serializedVersion: 2
-  tags: []
+  serializedVersion: 3
+  tags:
+  - AttackHitbox
   layers:
   - Default
   - TransparentFX
@@ -38,6 +39,18 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: Background
+    uniqueID: 2471527229
+    locked: 0
+  - name: Decoration
+    uniqueID: 95309321
+    locked: 0
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Foreground
+    uniqueID: 1193726343
+    locked: 0
+  m_RenderingLayers:
+  - Default
+  m_MigratedRenderPipelines: []

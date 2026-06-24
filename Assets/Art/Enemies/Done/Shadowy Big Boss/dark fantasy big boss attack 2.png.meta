@@ -1,0 +1,548 @@
+fileFormatVersion: 2
+guid: f09f8ebf93a404d4eb0fc0c5f12a979d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4238350135880335628
+    second: dark fantasy big boss attack 2_0
+  - first:
+      213: -8238481714156824966
+    second: dark fantasy big boss attack 2_1
+  - first:
+      213: 8073560134293524169
+    second: dark fantasy big boss attack 2_2
+  - first:
+      213: -6826271386362935489
+    second: dark fantasy big boss attack 2_3
+  - first:
+      213: -5654622784013305929
+    second: dark fantasy big boss attack 2_4
+  - first:
+      213: -9061149126468273030
+    second: dark fantasy big boss attack 2_5
+  - first:
+      213: 162294851285710562
+    second: dark fantasy big boss attack 2_6
+  - first:
+      213: -51310439951205388
+    second: dark fantasy big boss attack 2_7
+  - first:
+      213: 5773463347383868888
+    second: dark fantasy big boss attack 2_8
+  - first:
+      213: 6561555540692446628
+    second: dark fantasy big boss attack 2_9
+  - first:
+      213: 2336038266158515380
+    second: dark fantasy big boss attack 2_10
+  - first:
+      213: -6108840344048002920
+    second: dark fantasy big boss attack 2_11
+  - first:
+      213: -1416224893890612426
+    second: dark fantasy big boss attack 2_12
+  - first:
+      213: -2354199072181736975
+    second: dark fantasy big boss attack 2_13
+  - first:
+      213: 468433386887171989
+    second: dark fantasy big boss attack 2_14
+  - first:
+      213: 795171199817247079
+    second: dark fantasy big boss attack 2_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: dark fantasy big boss attack 2_0
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 8
+        width: 36
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0140ea2ef4a1da30800000000000000
+      internalID: 4238350135880335628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark fantasy big boss attack 2_1
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 8
+        width: 36
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a769123c7880bad80800000000000000
+      internalID: -8238481714156824966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark fantasy big boss attack 2_2
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 8
+        width: 36
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ce0255aa2c0b0070800000000000000
+      internalID: 8073560134293524169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark fantasy big boss attack 2_3
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 8
+        width: 36
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f378c6b57563441a0800000000000000
+      internalID: -6826271386362935489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark fantasy big boss attack 2_4
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 8
+        width: 36
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b77e04998eb681b0800000000000000
+      internalID: -5654622784013305929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark fantasy big boss attack 2_5
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 8
+        width: 36
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7c7404a0e4504280800000000000000
+      internalID: -9061149126468273030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark fantasy big boss attack 2_6
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 8
+        width: 36
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e672cfae46904200800000000000000
+      internalID: 162294851285710562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark fantasy big boss attack 2_7
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 8
+        width: 36
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fb707d3d65b94ff0800000000000000
+      internalID: -51310439951205388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark fantasy big boss attack 2_8
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 8
+        width: 36
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dd9d8843567f1050800000000000000
+      internalID: 5773463347383868888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark fantasy big boss attack 2_9
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 8
+        width: 33
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ad28f8eff35f0b50800000000000000
+      internalID: 6561555540692446628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark fantasy big boss attack 2_10
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 8
+        width: 31
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b4091c1d664b6020800000000000000
+      internalID: 2336038266158515380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark fantasy big boss attack 2_11
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 8
+        width: 36
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8989177b21a093ba0800000000000000
+      internalID: -6108840344048002920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark fantasy big boss attack 2_12
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 8
+        width: 36
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 633b59566fe885ce0800000000000000
+      internalID: -1416224893890612426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark fantasy big boss attack 2_13
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 8
+        width: 36
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f9ad0cba64345fd0800000000000000
+      internalID: -2354199072181736975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark fantasy big boss attack 2_14
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 8
+        width: 36
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59fc75afea5308600800000000000000
+      internalID: 468433386887171989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark fantasy big boss attack 2_15
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 8
+        width: 36
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7696ab44ef3090b00800000000000000
+      internalID: 795171199817247079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: c7f3e43bc31b3bf42839c0f11db3cb3f
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.0},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":7,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      dark fantasy big boss attack 2_0: 4238350135880335628
+      dark fantasy big boss attack 2_1: -8238481714156824966
+      dark fantasy big boss attack 2_10: 2336038266158515380
+      dark fantasy big boss attack 2_11: -6108840344048002920
+      dark fantasy big boss attack 2_12: -1416224893890612426
+      dark fantasy big boss attack 2_13: -2354199072181736975
+      dark fantasy big boss attack 2_14: 468433386887171989
+      dark fantasy big boss attack 2_15: 795171199817247079
+      dark fantasy big boss attack 2_2: 8073560134293524169
+      dark fantasy big boss attack 2_3: -6826271386362935489
+      dark fantasy big boss attack 2_4: -5654622784013305929
+      dark fantasy big boss attack 2_5: -9061149126468273030
+      dark fantasy big boss attack 2_6: 162294851285710562
+      dark fantasy big boss attack 2_7: -51310439951205388
+      dark fantasy big boss attack 2_8: 5773463347383868888
+      dark fantasy big boss attack 2_9: 6561555540692446628
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

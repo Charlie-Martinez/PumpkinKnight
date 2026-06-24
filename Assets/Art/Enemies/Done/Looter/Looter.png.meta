@@ -1,0 +1,1322 @@
+fileFormatVersion: 2
+guid: ebc2f27a691ba08478fec60d7440ae38
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2168769312223130355
+    second: Character_animations_no_background_0
+  - first:
+      213: -3732321051906523363
+    second: Character_animations_no_background_1
+  - first:
+      213: -5010589646981783690
+    second: Character_animations_no_background_2
+  - first:
+      213: -3033328734342551822
+    second: Character_animations_no_background_3
+  - first:
+      213: 1507847362377759823
+    second: Character_animations_no_background_4
+  - first:
+      213: 7406521019017085137
+    second: Character_animations_no_background_5
+  - first:
+      213: -724837441974864569
+    second: Character_animations_no_background_6
+  - first:
+      213: -9025915435900904778
+    second: Character_animations_no_background_7
+  - first:
+      213: 1355607081791155845
+    second: Character_animations_no_background_8
+  - first:
+      213: -4801031129169169137
+    second: Character_animations_no_background_9
+  - first:
+      213: -2472568465984604192
+    second: Character_animations_no_background_10
+  - first:
+      213: -283886714732295082
+    second: Character_animations_no_background_11
+  - first:
+      213: 634963670376028680
+    second: Character_animations_no_background_12
+  - first:
+      213: 7101291926993451909
+    second: Character_animations_no_background_13
+  - first:
+      213: 9056359444127345877
+    second: Character_animations_no_background_14
+  - first:
+      213: 368734874801286327
+    second: Character_animations_no_background_15
+  - first:
+      213: 7478946718185829840
+    second: Character_animations_no_background_16
+  - first:
+      213: 3677721599506597729
+    second: Character_animations_no_background_17
+  - first:
+      213: -2847340667840740273
+    second: Character_animations_no_background_18
+  - first:
+      213: 8165629308460644347
+    second: Character_animations_no_background_19
+  - first:
+      213: -5432399344706758960
+    second: Character_animations_no_background_20
+  - first:
+      213: -9142903090383218123
+    second: Character_animations_no_background_21
+  - first:
+      213: 8237905172492792104
+    second: Character_animations_no_background_22
+  - first:
+      213: -4856094196425622361
+    second: Character_animations_no_background_23
+  - first:
+      213: -6599627450430792117
+    second: Character_animations_no_background_24
+  - first:
+      213: 6463785692050074174
+    second: Character_animations_no_background_25
+  - first:
+      213: -593085189009384619
+    second: Character_animations_no_background_26
+  - first:
+      213: -4102492908376454161
+    second: Character_animations_no_background_27
+  - first:
+      213: -443110856369537206
+    second: Character_animations_no_background_28
+  - first:
+      213: 2134338542082529788
+    second: Character_animations_no_background_29
+  - first:
+      213: 9194624667687259284
+    second: Character_animations_no_background_30
+  - first:
+      213: -8944346357231336014
+    second: Character_animations_no_background_31
+  - first:
+      213: -514590994492051811
+    second: Character_animations_no_background_32
+  - first:
+      213: -2151711088670166276
+    second: Character_animations_no_background_33
+  - first:
+      213: -1820295311072533639
+    second: Character_animations_no_background_34
+  - first:
+      213: 6133267966686374399
+    second: Character_animations_no_background_35
+  - first:
+      213: 8108955805609448229
+    second: Character_animations_no_background_36
+  - first:
+      213: 1147752891987607227
+    second: Character_animations_no_background_37
+  - first:
+      213: -6302917897376251677
+    second: Character_animations_no_background_38
+  - first:
+      213: -3629767409053871828
+    second: Character_animations_no_background_39
+  - first:
+      213: -9184435644463138911
+    second: Character_animations_no_background_40
+  - first:
+      213: -3303233881233331918
+    second: Character_animations_no_background_41
+  - first:
+      213: 1726663697215563138
+    second: Character_animations_no_background_42
+  - first:
+      213: -1279141067849967214
+    second: Character_animations_no_background_43
+  - first:
+      213: 1018802621525617860
+    second: Character_animations_no_background_44
+  - first:
+      213: 5737073047309716003
+    second: Character_animations_no_background_45
+  - first:
+      213: 6981635743888117546
+    second: Character_animations_no_background_46
+  - first:
+      213: 370806210212079430
+    second: Character_animations_no_background_47
+  - first:
+      213: -7059007024656810653
+    second: Character_animations_no_background_48
+  - first:
+      213: -5435302716747487528
+    second: Character_animations_no_background_49
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Looter_0
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 174
+        width: 10
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e03503988b14e54f96b5604162894ab
+      internalID: 1193239245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Looter_1
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 174
+        width: 10
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc404003068c5c84ca120fa8030b9159
+      internalID: -2099356365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Looter_2
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 174
+        width: 10
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bb937c71045aa248be1af39683aafea
+      internalID: 1439621791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Looter_3
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 174
+        width: 10
+        height: 9
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96dad4f9b0cedae46bdaea283fcd2c23
+      internalID: -2141542717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Looter_4
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 174
+        width: 10
+        height: 9
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df149e86245686c44b6315190c6d2033
+      internalID: 1940053551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Looter_5
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 150
+        width: 10
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e886b30096c3e4047b897a7ab137420f
+      internalID: 1442933647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Looter_6
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 150
+        width: 10
+        height: 9
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cb4ff5c30c5375428380439b5d3a3f2
+      internalID: -1560588934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Looter_7
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 150
+        width: 10
+        height: 9
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51cd7f480332e4249823525a8ccb3e08
+      internalID: -1026150116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Looter_8
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 150
+        width: 10
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e978e6336e52514ca2bdc81d6d5ab8c
+      internalID: -828511575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Looter_9
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 150
+        width: 10
+        height: 11
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c21409adc399cf64a8e3ecd1c015992c
+      internalID: 463004942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Looter_11
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 126
+        width: 10
+        height: 11
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 577e777012545eb429f2476862d66fd6
+      internalID: 2116980412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Looter_12
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 127
+        width: 10
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 084f76ba573c6804f9111a7c6754d2f7
+      internalID: 407352032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Looter_13
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 127
+        width: 11
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba8aea7e611b30743a1d6b4891d84cf9
+      internalID: -1676196585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Looter_14
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 102
+        width: 10
+        height: 11
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1d8c75b455f248449bbb2fdabce152e
+      internalID: 181047909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Looter_15
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 102
+        width: 10
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52870ec4aacdb3e419ab7985750b1363
+      internalID: 1865164433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Looter_16
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 102
+        width: 10
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 280d72107a14a634b9926a5104b7e062
+      internalID: 631590234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Looter_18
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 78
+        width: 10
+        height: 11
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8503246a436da0840aee304296167405
+      internalID: 612843557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Looter_19
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 78
+        width: 8
+        height: 11
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43cda21279a2bb64491403c18ab23c1e
+      internalID: -817304433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Looter_20
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 78
+        width: 9
+        height: 11
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e561a4d693612d04f81e693e9fd9194d
+      internalID: 874249781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Looter_21
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 78
+        width: 15
+        height: 11
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b1b999158492b940888a6b5ad855acd
+      internalID: -836699612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Looter_22
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 78
+        width: 16
+        height: 11
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e71128535007d0248a115ed0d4756ff5
+      internalID: 988608430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Looter_23
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 77
+        width: 8
+        height: 12
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be3743a07221f9d4f986644d0bee4767
+      internalID: -503904261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Looter_24
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 78
+        width: 8
+        height: 11
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 000740531e4062e4da9ae92f041276ed
+      internalID: -1871718144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Looter_25
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 78
+        width: 10
+        height: 11
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57224b32b1da68b4c8293ac5916fe128
+      internalID: 1814600463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Looter_27
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 53
+        width: 14
+        height: 11
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dabd076b91176044bd15e7ded3770aa
+      internalID: -1985918235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Looter_28
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 53
+        width: 20
+        height: 11
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd50bda204dfd994ba1753b2c68b9dd6
+      internalID: -2056202918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Looter_29
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 53
+        width: 20
+        height: 11
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4a39efd4f9e36c478e19b8ff2f04f09
+      internalID: 277388745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Looter_30
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 53
+        width: 19
+        height: 11
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0710e6eacdd8847488e122fe8181ace4
+      internalID: -1760235908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Looter_31
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 53
+        width: 15
+        height: 13
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc8eeae10c71aaa4a9500b236c243ebf
+      internalID: 1257888579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Looter_33
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 30
+        width: 16
+        height: 11
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eff5a6a62514329499410614bdaab4b4
+      internalID: -1234865214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Looter_34
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 30
+        width: 15
+        height: 11
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76f5d343d2eaa954fa803b89628c1114
+      internalID: 1967783899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Looter_35
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 30
+        width: 14
+        height: 11
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f60969c3d1225d64c80967a4b8f974ee
+      internalID: 682973737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Looter_36
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 30
+        width: 13
+        height: 11
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c67c9b676a3f4664397611c9f3261ad0
+      internalID: -806604238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Looter_37
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 30
+        width: 13
+        height: 11
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3840f6226627ac04aa1371ba59fee05a
+      internalID: 943735854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Looter_38
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 30
+        width: 13
+        height: 11
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0619608654ddfc4cada79350dc52e24
+      internalID: -165615732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Looter_39
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 30
+        width: 13
+        height: 11
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9efcb35206e531849b1326d35a8bef17
+      internalID: -2038439091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Looter_40
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 30
+        width: 13
+        height: 11
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9942874b34cc6224687c348c49c1f335
+      internalID: 1025850300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Looter_42
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 6
+        width: 16
+        height: 11
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 004c28f6aae6ad74d85b597662224f1e
+      internalID: -1786059067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Looter_43
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 6
+        width: 15
+        height: 11
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77c01313dd445304fb0e61283d3f88d0
+      internalID: 1763638846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Looter_44
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 6
+        width: 14
+        height: 11
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c24763621b3e1504b8ae2de2b87122ba
+      internalID: -1000731599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Looter_45
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 6
+        width: 13
+        height: 11
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8420ab34074166346bc476d602744830
+      internalID: -2047852330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Looter_46
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 6
+        width: 13
+        height: 11
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2eaa0f2ff216cc4d8ce9eb6d7333e30
+      internalID: 762380229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Looter_47
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 6
+        width: 13
+        height: 11
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b16d930d675055343959e346965bd730
+      internalID: -1090898521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Looter_48
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 6
+        width: 13
+        height: 11
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd24946fe1c1746449c54647d450ade1
+      internalID: 1541388040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Looter_49
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 6
+        width: 13
+        height: 11
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aec131ff887bccf4e9ebfd8cb528e170
+      internalID: 1873767319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 1ff1e2cae792b9f479657c317c9fdfdb
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.0,"y":0.0},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":6,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Looter_0: 1193239245
+      Looter_1: -2099356365
+      Looter_10: -1566051461
+      Looter_11: 2116980412
+      Looter_12: 407352032
+      Looter_13: -1676196585
+      Looter_14: 181047909
+      Looter_15: 1865164433
+      Looter_16: 631590234
+      Looter_17: -1317699863
+      Looter_18: 612843557
+      Looter_19: -817304433
+      Looter_2: 1439621791
+      Looter_20: 874249781
+      Looter_21: -836699612
+      Looter_22: 988608430
+      Looter_23: -503904261
+      Looter_24: -1871718144
+      Looter_25: 1814600463
+      Looter_26: -669291522
+      Looter_27: -1985918235
+      Looter_28: -2056202918
+      Looter_29: 277388745
+      Looter_3: -2141542717
+      Looter_30: -1760235908
+      Looter_31: 1257888579
+      Looter_32: -1322744552
+      Looter_33: -1234865214
+      Looter_34: 1967783899
+      Looter_35: 682973737
+      Looter_36: -806604238
+      Looter_37: 943735854
+      Looter_38: -165615732
+      Looter_39: -2038439091
+      Looter_4: 1940053551
+      Looter_40: 1025850300
+      Looter_41: 1137031006
+      Looter_42: -1786059067
+      Looter_43: 1763638846
+      Looter_44: -1000731599
+      Looter_45: -2047852330
+      Looter_46: 762380229
+      Looter_47: -1090898521
+      Looter_48: 1541388040
+      Looter_49: 1873767319
+      Looter_5: 1442933647
+      Looter_6: -1560588934
+      Looter_7: -1026150116
+      Looter_8: -828511575
+      Looter_9: 463004942
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

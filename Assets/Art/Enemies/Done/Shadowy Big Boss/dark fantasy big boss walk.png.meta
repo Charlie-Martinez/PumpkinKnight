@@ -1,0 +1,548 @@
+fileFormatVersion: 2
+guid: db38719ee8610034da57b540c4752ff4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5316671062461025354
+    second: dark fantasy big boss walk_0
+  - first:
+      213: -2070069183767456361
+    second: dark fantasy big boss walk_1
+  - first:
+      213: 2726467285430511877
+    second: dark fantasy big boss walk_2
+  - first:
+      213: -2060588480469599287
+    second: dark fantasy big boss walk_3
+  - first:
+      213: -6429545595259787760
+    second: dark fantasy big boss walk_4
+  - first:
+      213: 3697919318832426260
+    second: dark fantasy big boss walk_5
+  - first:
+      213: 4357114327883444861
+    second: dark fantasy big boss walk_6
+  - first:
+      213: 5665885387492823135
+    second: dark fantasy big boss walk_7
+  - first:
+      213: -6639194637417393968
+    second: dark fantasy big boss walk_8
+  - first:
+      213: -1681941090964871337
+    second: dark fantasy big boss walk_9
+  - first:
+      213: -2635244813920690610
+    second: dark fantasy big boss walk_10
+  - first:
+      213: 1982756562990520180
+    second: dark fantasy big boss walk_11
+  - first:
+      213: 5820474903571703799
+    second: dark fantasy big boss walk_12
+  - first:
+      213: -2432775722371749587
+    second: dark fantasy big boss walk_13
+  - first:
+      213: -8682495358057178009
+    second: dark fantasy big boss walk_14
+  - first:
+      213: -4209606102510360831
+    second: dark fantasy big boss walk_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: dark fantasy big boss walk_0
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 8
+        width: 36
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b3796e66d36736b0800000000000000
+      internalID: -5316671062461025354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark fantasy big boss walk_1
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 8
+        width: 36
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 795de098b03a543e0800000000000000
+      internalID: -2070069183767456361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark fantasy big boss walk_2
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 8
+        width: 36
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5092fc7fc8b56d520800000000000000
+      internalID: 2726467285430511877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark fantasy big boss walk_3
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 8
+        width: 36
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cbf859c1b15763e0800000000000000
+      internalID: -2060588480469599287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark fantasy big boss walk_4
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 8
+        width: 36
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 016ec57a85aa5c6a0800000000000000
+      internalID: -6429545595259787760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark fantasy big boss walk_5
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 8
+        width: 31
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41daf0f2706a15330800000000000000
+      internalID: 3697919318832426260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark fantasy big boss walk_6
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 8
+        width: 31
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d72f14f6564977c30800000000000000
+      internalID: 4357114327883444861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark fantasy big boss walk_7
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 8
+        width: 34
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f501693adb441ae40800000000000000
+      internalID: 5665885387492823135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark fantasy big boss walk_8
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 8
+        width: 36
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d0de0a37a7dcd3a0800000000000000
+      internalID: -6639194637417393968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark fantasy big boss walk_9
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 8
+        width: 36
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 757e7e33d7b88a8e0800000000000000
+      internalID: -1681941090964871337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark fantasy big boss walk_10
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 8
+        width: 36
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4e111acdcabd6bd0800000000000000
+      internalID: -2635244813920690610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark fantasy big boss walk_11
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 8
+        width: 36
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 477df15c69a248b10800000000000000
+      internalID: 1982756562990520180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark fantasy big boss walk_12
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 8
+        width: 36
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f7a77b261b76c050800000000000000
+      internalID: 5820474903571703799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark fantasy big boss walk_13
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 8
+        width: 31
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2966d1be5b0d3ed0800000000000000
+      internalID: -2432775722371749587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark fantasy big boss walk_14
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 8
+        width: 31
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76c16034974918780800000000000000
+      internalID: -8682495358057178009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark fantasy big boss walk_15
+      rect:
+        serializedVersion: 2
+        x: 1221
+        y: 8
+        width: 34
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 107ad8f9d897495c0800000000000000
+      internalID: -4209606102510360831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 0744cb21c36ee3646b7c7ce1151dd353
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.0},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":7,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      dark fantasy big boss walk_0: -5316671062461025354
+      dark fantasy big boss walk_1: -2070069183767456361
+      dark fantasy big boss walk_10: -2635244813920690610
+      dark fantasy big boss walk_11: 1982756562990520180
+      dark fantasy big boss walk_12: 5820474903571703799
+      dark fantasy big boss walk_13: -2432775722371749587
+      dark fantasy big boss walk_14: -8682495358057178009
+      dark fantasy big boss walk_15: -4209606102510360831
+      dark fantasy big boss walk_2: 2726467285430511877
+      dark fantasy big boss walk_3: -2060588480469599287
+      dark fantasy big boss walk_4: -6429545595259787760
+      dark fantasy big boss walk_5: 3697919318832426260
+      dark fantasy big boss walk_6: 4357114327883444861
+      dark fantasy big boss walk_7: 5665885387492823135
+      dark fantasy big boss walk_8: -6639194637417393968
+      dark fantasy big boss walk_9: -1681941090964871337
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
